@@ -1,0 +1,6 @@
+[submodule "Readme"]
+	path = Readme
+	url = https://github.com/Bavyadharshini-Rajaganapathy/PhishingEmailDetectionReadme
+[submodule "Training"]
+	path = Training
+	url = https://github.com/Bavyadharshini-Rajaganapathy/PhishingEmailDetectionTraining
